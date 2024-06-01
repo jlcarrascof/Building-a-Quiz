@@ -83,9 +83,8 @@ input {
     font-size: 16px;
 }
 
-.info > label, .info > input {
+.info label, .info input {
     display: inline-block;
-    text-align: right;
 }
 
 .info input {
@@ -96,6 +95,7 @@ input {
 .info label {
     width: 10%;
     min-width: 55px;
+    text-align: right;
 }
 
 .sr-only {
