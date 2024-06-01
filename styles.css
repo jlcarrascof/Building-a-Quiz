@@ -88,6 +88,11 @@ input {
     text-align: left;
 }
 
+.info label {
+    width: 10%;
+    min-width: 55px;
+}
+
 .sr-only {
     position: absolute;
     width: 1px;
